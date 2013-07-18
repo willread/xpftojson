@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Puzzles Version="1.0">
+  <Puzzle>
+    <Title>Sample Puzzle</Title>
+    <Author>William Blanchette</Author>
+    <Editor>William Blanchette</Editor>
+    <Publisher>Collective Cognition</Publisher>
+    <Date>7/18/2013</Date>
+    <Size>
+      <Rows>2</Rows>
+      <Cols>2</Cols>
+    </Size>
+    <Grid>
+      <Row>AB</Row>
+      <Row>CD</Row>   
+    </Grid>
+    <Clues>
+      <Clue Row="1" Col="1" Num="1" Dir="Across" Ans="A">Clue 1</Clue>
+      <Clue Row="1" Col="2" Num="2" Dir="Down" Ans="AD">Clue 2</Clue>
+      <Clue Row="2" Col="1" Num="3" Dir="Across" Ans="CD">Clue 3</Clue>
+    </Clues>
+  </Puzzle>
+</Puzzles>

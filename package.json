@@ -1,0 +1,17 @@
+{
+	"name": "xpftojson",
+	"description": "A commandline utility for converting crossword puzzles in xpf format to the json format used by crossword.js",
+	"author": "William Blancehtte <wb@wblanchette.com",
+	"dependencies": {
+		"xml2js": "0.2.x",
+		"cli": "0.4.x"
+	},
+	"devDependencies": {
+		"expresso": "0.9.0",
+		"temp": "0.5.1"
+	},
+	"engine": "node >= 0.4.1",
+	"scripts": {
+		"test": "./node_modules/expresso/bin/expresso"
+	}
+}
