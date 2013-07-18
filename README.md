@@ -7,7 +7,7 @@ A commandline utility written in node.js which converts XPF files [XPF Universal
 
 Install using NPM.
 
-	npm install -g xpftojson
+	sudo npm install -g xpftojson
 
 Generate JSON to sdtout.
 
