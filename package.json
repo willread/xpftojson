@@ -1,7 +1,8 @@
 {
 	"name": "xpftojson",
 	"description": "A commandline utility for converting crossword puzzles in xpf format to the json format used by crossword.js",
-	"author": "William Blancehtte <wb@wblanchette.com",
+	"author": "William Blancehtte <wb@wblanchette.com>",
+	"repository": "https://github.com/collectivecognition/xpftojson",
 	"version": "0.1.0",
 	"dependencies": {
 		"xml2js": "0.2.x",
