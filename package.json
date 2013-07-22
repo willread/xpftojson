@@ -6,7 +6,8 @@
 		"type": "git",
 		"url": "https://github.com/collectivecognition/xpftojson"
 	},
-	"version": "0.1.1",
+	"version": "0.1.2",
+	"preferGlobal": true,
 	"bin": {
 		"xpftojson": "xpftojson.js"
 	},
